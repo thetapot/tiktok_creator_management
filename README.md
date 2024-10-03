@@ -1,4 +1,5 @@
-#TikTok Creator Scraper
+TikTok Creator Scraper
+
 This project automates the process of scraping TikTok creators from the TikTok Affiliate website based on follower count ranges. It interacts with the website through Selenium WebDriver, automating browser actions such as filtering by follower count, scrolling, and adding creators to a management list.
 
 Features
